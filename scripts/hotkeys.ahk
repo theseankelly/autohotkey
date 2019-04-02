@@ -21,5 +21,5 @@
 ^!r::Reload
 
 ; Start Ubuntu terminal
-^!t::Run, ubuntu.exe
+^!t::Run, "C:\Users\sean\AppData\Local\wsltty\Ubuntu Terminal.lnk"
 
